@@ -10,4 +10,4 @@ Creating tables in HTML and styling.
 ------
 **This is how it looks!**
 
-![gif](/img/table_responsive.gif)
+![gif]()
