@@ -1,5 +1,5 @@
 # Table (responsive)
-### :hammer_and_wrench: HTML/CSS Project
+### :hammer_and_wrench: Responsive Tables Project
 
 Creating tables in HTML and styling.
 
